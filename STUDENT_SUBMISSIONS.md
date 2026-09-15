@@ -31,10 +31,10 @@ Create a new branch for your work using your name (use lowercase, hyphens instea
 
 ```bash
 # Create and switch to your new branch
-git checkout -b firstname-lastname
+git checkout -b taric-said
 
 # Example (use your name please not mine):
-# git checkout -b christin-mugisha
+# git checkout -b taric-said
 ```
 
 ### Step 3: Make Your Changes
@@ -43,8 +43,8 @@ Edit the student roster table and add your information:
 
 1. Add your name in the same format as the first entry (Last Name, First Name)
 2. Fill in your Student ID
-3. Add your GitHub username (your @handle, e.g., @username)
-4. Add your Humber email (format: firstname.lastname@humber.ca or n01233456789@humber.ca)
+3. Add your GitHub username (your @handle, e.g., @username -Munch123)
+4. Add your Humber email (format: firstname.lastname@humber.ca or n01233456789@humber.ca -n01761991@humber.ca)
 5. Mark Lab 0 as complete with ✅ or any other emoji :)
 6. Add your Group Name (Note: This is **optional**; you can leave it blank if you are not in a group yet)
 7. You can join groups through **Blackboard**. A sign-up link will be posted to let you join/form a group.
