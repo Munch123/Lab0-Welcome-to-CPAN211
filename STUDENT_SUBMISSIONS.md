@@ -31,7 +31,7 @@ Create a new branch for your work using your name (use lowercase, hyphens instea
 
 ```bash
 # Create and switch to your new branch
-git checkout -b firsname-lastname
+git checkout -b firstname-lastname
 
 # Example (use your name please not mine):
 # git checkout -b christin-mugisha
